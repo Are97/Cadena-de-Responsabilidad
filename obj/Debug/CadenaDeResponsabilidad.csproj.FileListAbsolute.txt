@@ -1,0 +1,7 @@
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\CadenaDeResponsabilidad.exe.config
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\CadenaDeResponsabilidad.exe
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\CadenaDeResponsabilidad\CadenaDeResponsabilidad\bin\Debug\CadenaDeResponsabilidad.pdb
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\CadenaDeResponsabilidad.csprojAssemblyReference.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\CadenaDeResponsabilidad.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\CadenaDeResponsabilidad.exe
+C:\Users\pablo\Documents\Visual Studio 2017\Projects\CadenaDeResponsabilidad\CadenaDeResponsabilidad\obj\Debug\CadenaDeResponsabilidad.pdb
